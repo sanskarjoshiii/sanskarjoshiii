@@ -4,11 +4,10 @@ efficient systems and providing appropriate services for clients according to th
 <p align="left">
 <a href="https://leetcode.com/u/sanskarjoshiii/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:premajoshi1100@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/sanskarjoshiii/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@sanskarjoshiii" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/sanskar_joshiii_/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@SanskarJoshiArts" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sanskar-joshi-4716a6243/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/sanskarjoshiii" target="_blank"><img src="https://cdn.simpleicons.org/github/8B949E" alt="GitHub" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/sanskarjoshiii" target="_blank"><img src="https://cdn.simpleicons.org/x/E7E5E4" alt="X" width="26" height="26" /></a>
+<a href="https://x.com/sanskar_joshi_" target="_blank"><img src="https://cdn.simpleicons.org/x/E7E5E4" alt="X" width="26" height="26" /></a>
 </p>
 <p>romanticizing the mess like it’s intentional 💀</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
