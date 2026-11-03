@@ -11,16 +11,16 @@ efficient systems and providing appropriate services for clients according to th
 </p>
 <p>romanticizing the mess like it’s intentional 💀</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>A Few Quick Facts</h2>
 <ul>
-<li>🔭 Building full stack web & mobile products at <strong>Voxton</strong>.</li>
-<li>⚙️ Currently on <strong>EmberFlow</strong> — a cache-aware ML inference router.</li>
-<li>🧐 Learning to build <strong>SaaS systems</strong> end to end, chasing new ideas, and trying to be good at all of it.</li>
-<li>🎓 B.Tech <strong>CSE (AIML)</strong> @ VIT Pune.</li>
-<li>💬 Ping me about <strong>system flows, product ideas, UI/UX, and clean design</strong>.</li>
-<li>🎨 I design too — <strong>Photoshop, Illustrator, Canva</strong>.</li>
+<li>Building full stack web & mobile products at <strong>Voxton</strong>.</li>
+<li>Currently on <strong>EmberFlow</strong> — a cache-aware ML inference router.</li>
+<li>Learning to build <strong>SaaS systems</strong> end to end, chasing new ideas, and trying to be good at all of it.</li>
+<li>B.Tech <strong>CSE (AIML)</strong> @ VIT Pune.</li>
+<li>Ping me about <strong>system flows, product ideas, UI/UX, and clean design</strong>.</li>
+<li></li> I design too — <strong>Photoshop, Illustrator, Canva</strong>.</li>
 </ul>
-<h2>🚀 Some Tools I Use</h2>
+<h2>Some Tools I Use 🚀</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="25" />
@@ -48,7 +48,7 @@ efficient systems and providing appropriate services for clients according to th
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="25" />
 <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="25" />
 </p>
-<h2>🔥 Current Streak</h2>
+<h2>Current Streak</h2>
 <p align="left">
 <a href="https://github.com/sanskarjoshiii"><img src="https://streak-stats.demolab.com/?user=sanskarjoshiii&amp;hide_border=true&amp;background=1C1917&amp;ring=F59E0B&amp;fire=F59E0B&amp;currStreakLabel=F59E0B&amp;currStreakNum=F59E0B&amp;sideNums=E7E5E4&amp;sideLabels=A8A29E&amp;dates=A8A29E&amp;stroke=F59E0B&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="420" /></a>
 </p>
