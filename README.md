@@ -18,9 +18,9 @@ efficient systems and providing appropriate services for clients according to th
 <li>Learning to build <strong>SaaS systems</strong> end to end, chasing new ideas, and trying to be good at all of it.</li>
 <li>B.Tech <strong>CSE (AIML)</strong> @ VIT Pune.</li>
 <li>Ping me about <strong>system flows, product ideas, UI/UX, and clean design</strong>.</li>
-<li></li> I design too — <strong>Photoshop, Illustrator, Canva</strong>.</li>
+<li>I design too — <strong>Photoshop, Illustrator, Canva</strong>.</li>
 </ul>
-<h2>Some Tools I Use 🚀</h2>
+<h2>Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="25" />
